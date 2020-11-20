@@ -1,0 +1,10 @@
+# MM/dd/yy HH:mm:ss
+date: "11/20/20 14:00:00"
+maxplayers: 2000
+timezone: "EST"
+
+motd:
+  first: "             &f✸ &3&lWaterMC Network &b&lv2 &f✸"
+  second: "&7► &b&lSOTW &7(HCF) &f%countdown%"
+  countdown: "%time%"
+  ended: "esta en &a&lPROGRESO&f!"

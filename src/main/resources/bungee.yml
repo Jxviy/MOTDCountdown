@@ -1,0 +1,3 @@
+name: MOTDCountdown
+version: ${project.version}
+main: dev.sergivos.motdcountdown.MOTDCountdown
