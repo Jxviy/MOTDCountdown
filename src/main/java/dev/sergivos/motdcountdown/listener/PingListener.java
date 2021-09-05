@@ -82,23 +82,23 @@ public class PingListener implements Listener {
     StringBuilder sb = new StringBuilder();
 
     if (days > 0) {
-      sb.append(days).append("d");
+      sb.append(days).append("dias");
       if (hours > 0) {
         sb.append(", ");
       }
     }
 
     if (hours > 0) {
-      sb.append(hours).append("h");
+      sb.append(hours).append("horas");
       if (min > 0) {
         sb.append(", ");
       }
     }
 
     if (min > 0) {
-      sb.append(min).append("m");
+      sb.append(min).append("minutos");
       if (sec > 0) {
-        sb.append(", ").append(sec).append("s");
+        sb.append(", ").append(sec).append("segundos");
       }
     }
 
